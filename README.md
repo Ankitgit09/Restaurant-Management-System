@@ -1,12 +1,12 @@
 # Restaurant-Management-System
-Restaurant Management System using Python with Tkinter
+#1. Restaurant Management System using Python with Tkinter
 
 A restaurant management system is a valuable tool that streamlines various tasks and processes within a restaurant, such as managing menu items, processing orders, handling payments, and generating reports. By developing a custom system with Python and Tkinter, we can create a tailored solution that meets the specific needs of a restaurant.
 
-Understanding the Restaurant Management System
+#2. Understanding the Restaurant Management System
 A restaurant management system is a software application designed to assist restaurant owners and managers in efficiently managing their operations. It automates several processes, including order management, inventory tracking, employee management, table reservations, and customer relationship management. With a well-designed restaurant management system, restaurant owners can enhance productivity, reduce errors, and provide better customer service.
 
-Setting up the Development Environment
+#3. Setting up the Development Environment
 Before we dive into building the restaurant management system, let's set up our development environment. Follow these steps:
 
 1. Install Python: Download and install the latest version of Python from the official website (python.org). Choose the appropriate installer based on your operating system.
@@ -14,7 +14,7 @@ Before we dive into building the restaurant management system, let's set up our 
 3. IDE Selection: Choose an integrated development environment (IDE) for Python development. Popular choices include PyCharm, Visual Studio Code, and IDLE (included with Python).
 
 
-#Explanation-of-Source-Code
+#4. Explanation-of-Source-Code
 Let's go through the code step by step:
 
 1. The code begins by importing the necessary modules: tkinter and messagebox.
@@ -46,3 +46,5 @@ gst_percentage represents the percentage of GST (Goods and Services Tax) to be a
 12. Finally, an instance of the RestaurantManagementSystem class is created, passing the root window as an argument. The Tkinter event loop is started with the mainloop() method, which allows the application to respond to user interactions and events.
 
 Overall, this code creates a simple restaurant management system with a graphical user interface, allowing users to enter customer details, select items from a menu, calculate the bill, and display it in a message box.
+
+
